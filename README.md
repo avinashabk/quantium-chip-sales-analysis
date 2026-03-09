@@ -36,16 +36,16 @@ The objective is to identify the customer segments that drive chip sales and pro
 
 ## Dashboard
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](quantium-chip-sales-analysis/images/dashboard_overview.png)
 
 ---
 
 ## Repository Structure
 
-data/ → raw datasets
-sql/ → SQL analysis scripts
-dashboard/ → Power BI dashboard
-images/ → dashboard screenshots
+- data/ → raw datasets → purchase_behavior.csv, transaction_data.csv
+- sql/ → SQL analysis script → chip_sales_analysis.sql
+- dashboard/ → Power BI dashboard → chip_sales_dashboard.pbix
+- images/ → dashboard screenshots → dashboard_overview.png, pack_size.png, sales_by_segment.png
 
 
 
@@ -53,8 +53,8 @@ images/ → dashboard screenshots
 
 ## Business Recommendation
 
-Marketing strategies should focus on **Older Families and Young Singles/Couples**, as these segments drive the majority of chip sales.
+- Marketing strategies should focus on **Older Families and Young Singles/Couples**, as these segments drive the majority of chip sales.
 
-Promotions around popular brands and pack sizes could further increase category revenue.
+- Promotions around popular brands and pack sizes could further increase category revenue.
 
 
