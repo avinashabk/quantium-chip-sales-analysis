@@ -54,7 +54,8 @@ This project was completed as part of the **Quantium Retail Analytics Virtual Ex
 
 ### Sales Analysis Dashboard
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](quantium-chip-sales-analysis/images/dashboard_overview.png)
+
 
 Additional visualizations include:
 
