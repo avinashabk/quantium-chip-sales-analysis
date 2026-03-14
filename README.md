@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-![Quantium Chip Sales Summary](quantium-chip-sales-analysis/images/project_summary_infographic.png)
+![Quantium Chip Sales Summary](quantium-chip-sales-analysis/images/project_summary_infographic.jpg)
 
 
 This project analyzes customer purchasing behaviour for the **chips category** using retail transaction and customer data.
