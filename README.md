@@ -91,6 +91,7 @@ images/
    pack_size.png
    sales_by_segment.png
    store_trial_analysis_dashboard.png
+   project_summary_infographic.png
 
 report/
    chip_sales_strategy_report.pdf
