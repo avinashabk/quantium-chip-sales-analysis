@@ -1,5 +1,10 @@
 # Quantium Chip Sales Analysis
 
+## Project Overview
+
+![Quantium Chip Sales Summary](quantium-chip-sales-analysis/images/project_summary_infographic.png)
+
+
 This project analyzes customer purchasing behaviour for the **chips category** using retail transaction and customer data.
 
 The objective is to identify the **customer segments that drive chip sales**, evaluate the **impact of store layout trials**, and provide **data-driven insights to support category strategy**.
